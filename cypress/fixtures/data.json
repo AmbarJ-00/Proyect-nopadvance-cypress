@@ -1,0 +1,31 @@
+{
+  
+    "usuario_1":{
+    "firstname": "Feliz sanches",
+    "lastname": "Fers46@",
+    "email": "Fsan99@gmail.com",
+    "password": "SF0derd02#$",
+    "rol": "visitante",
+    "company": "alejandria menendes",
+    "phone": "809-223-8892"
+  },
+    "usuario_2": {
+    "firstname": "Maria paula",
+    "lastname": "Paula123",
+    "email": "MariaPP@gmail.com",
+    "password": "MNssasa7411t##",
+    "rol": "visitante",
+    "company": "alejandria menendes",
+    "phone": "809-223-8892"
+  },
+  
+  "usuario_3": {
+    "firstname": "Mercedez carrasco",
+    "lastname": "MercedesVB",
+    "email": "MerCar@gmail.com",
+    "password": "crrSSAO88@",
+    "rol": "usuario",
+    "company": "alejandria menendes",
+    "phone": "809-223-8892"
+  }
+}
