@@ -47,16 +47,11 @@ El framework está diseñado para ser escalable, fácil de mantener y adaptable 
 * Modulo de contratacion de un recurso.
 
 
-## **Áreas por probar**
-* Home page. 
+## **Áreas por probar** 
 * Login. 
 * Registrer. 
 * Shopping Car. 
 * Chat Bot. 
-* Order History.
-* Contactos. 
-* Sitemap.
-* Solicitud de cotizacion. 
 * Links de redireccionamiento a redes sociales. 
 * HomeStore page. 
 * Products. 
@@ -71,17 +66,7 @@ Ademas, se estaran implementando DoD como un reemplazo de los criterior de acept
 ## **Tipos de prueba**
 * Pruebas E2E.
 * Pruebas de componentes.
-* Pruebas de api.
 
-
-## **Data set**
-|Username|Gmail|Tipo de usuario|
-|---|---|---|
-|Fers46@||Fsan99@gmail.com|visitante|
-|Paula123|MariaPP@gmail.com|visitante|
-|MercedesVB|MerCar@gmail.com|usuario|
-|Camaleon81|Albertico@gmail.com|usuario|
-|Mati|MatiTest@gmail.com|usuario|
 
 ## **Usuarios**
 - Visitante: usuario sin permisos ni registro en el sistema. puede interactuar libremente con el sistema, buscar productos y solicitar informacion pero no puede comprar productos ni personalizar su perfil. 
@@ -89,11 +74,7 @@ Ademas, se estaran implementando DoD como un reemplazo de los criterior de acept
 - Usuario: usuario registrado en el sistema con permisos y autenticacion establecidos, puede procesar pagos, adquirir productos y servicios, personalizar su cuenta y tiene acceso a funciones mas especificas del sistema.
 
 ## **flujo de E2E**
-
-
-## **Recursos y documentos relacionados** 
-|||--s-|
-|---|---|---|
-|sc|cs|ds|
-|-d-|-vv|-ff|
-|-d-|-d-|-d-|
+- registro de nuevo usuario
+- login de usuario existente
+- compra exitosa de articulos
+- logout exitoso
